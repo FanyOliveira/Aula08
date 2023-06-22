@@ -1,0 +1,7 @@
+C:\Users\rafany.cojesus\source\repos\Aula08_Array150623\Aula08_Array150623\bin\Debug\Aula08_Array150623.exe.config
+C:\Users\rafany.cojesus\source\repos\Aula08_Array150623\Aula08_Array150623\bin\Debug\Aula08_Array150623.exe
+C:\Users\rafany.cojesus\source\repos\Aula08_Array150623\Aula08_Array150623\bin\Debug\Aula08_Array150623.pdb
+C:\Users\rafany.cojesus\source\repos\Aula08_Array150623\Aula08_Array150623\obj\Debug\Aula08_Array150623.csproj.CoreCompileInputs.cache
+C:\Users\rafany.cojesus\source\repos\Aula08_Array150623\Aula08_Array150623\obj\Debug\Aula08_Array150623.exe
+C:\Users\rafany.cojesus\source\repos\Aula08_Array150623\Aula08_Array150623\obj\Debug\Aula08_Array150623.pdb
+C:\Users\rafany.cojesus\source\repos\Aula08_Array150623\Aula08_Array150623\obj\Debug\Aula08_Array150623.csproj.AssemblyReference.cache
